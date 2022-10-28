@@ -1,6 +1,3 @@
 # The Spread Operator
 
-To use this repository:
-- Click the "Use this template" button in the upper right
-- Choose a name for your repository and create it
-- In your own repository, click the green "Gitpod" button
+To run this file in Gitpod, use the command node the-spread-operator.js in the terminal
